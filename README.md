@@ -1,6 +1,5 @@
-# selenium-autoreport
-Auto report on my work
-
+# selenium autoreport
+Script for automatically filling out a weekly report at work
 
 selenium api + pyautogui for base auth NTLM
 
