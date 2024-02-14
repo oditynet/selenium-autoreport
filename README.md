@@ -6,7 +6,8 @@ selenium api + pyautogui for base auth NTLM
 selenium=4.23
 (http://username:password@example.com/) - is NOT WORK!
 
-
+```sh
 install:
 pip install pyautogui
 pip install selenium
+```
