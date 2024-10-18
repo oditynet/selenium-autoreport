@@ -13,3 +13,5 @@ pip install selenium
 pip install webdriver-manager
 ```
 sudo cp /usr/bin/selenium-manager /usr/lib/python3.12/site-packages/selenium/webdriver/common/linux/
+
+![](https://github.com/oditynet/selenium-autoreport/blob/a02b5e8456308483bb2e6bffb813d670573e32e5/video.gif)
